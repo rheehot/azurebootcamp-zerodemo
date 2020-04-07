@@ -1,2 +1,4 @@
-Containeizing a .NET Core app with Docker and deploy to Azure
+
 # azurebootcamp-zerodemo
+
+This demo for building Azure DevOps Pipeline for AKS on Rancher
