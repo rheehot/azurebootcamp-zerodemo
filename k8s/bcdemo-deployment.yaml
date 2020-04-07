@@ -5,7 +5,7 @@ metadata:
 spec:
   replicas: 1
   selector:
-    matchLabels
+    matchLabels:
       app: zero-k8s-app
   template:
     metadata:
